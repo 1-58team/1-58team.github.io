@@ -10,3 +10,9 @@ h1{
    font-family: 'Open Sans', sans-serif; /* Семейство шрифтов */
   font-weight: normal; /* Нормальное начертание текста  */
 }
+video{
+     width: 100%;
+    }
+img{  
+  width: 10%;
+    }
